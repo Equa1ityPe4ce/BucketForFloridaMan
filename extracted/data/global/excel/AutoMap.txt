@@ -4850,6 +4850,7 @@ Expansion
 45	wrd	1	2	4	wall right door	34		-1		-1		-1
 45	wrd	1	1	1	wall right door	20		-1		-1		-1
 45	wrd	1	5	7	wall right door	34		-1		-1		-1
+46	wl	45	15	15	DS1 Studio	21		-1		-1		-1
 46	fl	38	5	5	DS1 Studio	319		-1		-1		-1
 46	fl	38	7	7	DS1 Studio	319		-1		-1		-1
 46	fl	38	3	3	DS1 Studio	692		-1		-1		-1

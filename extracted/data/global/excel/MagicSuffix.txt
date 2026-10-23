@@ -230,7 +230,7 @@ of Transcendence	227	102	1	1	76		68				40	15	dmg-min		15	20									1	blac	weap	
 of Worth	228	1	1	1	15	55	11				40	15	dmg-min		2	3											ring	amul	circ	helm											0
 of Measure	229	1	1	1	37	77	29				40	15	dmg-min		4	5											ring	amul	circ	helm											0
 of Excellence	230	101	1	1	59		51				40	15	dmg-min		6	9											ring	amul	circ	helm											0
-of Performance	231	102	1	1	81		63				20	15	dmg-min		10	13											ring	amul	circ	helm											0
+of Performance	231	102	1	1	60		50				20	15	dmg-min		10	13											ring	amul	circ	helm											0
 of Joyfulness	232	100	1	1	5		3				40	15	dmg-min		1	4									1	whit	jewl														0
 of Bliss	233	101	1	1	43		37				40	15	dmg-min		5	10									1	whit	jewl														0
 of Blight	234	1	1	1	5	45	3				50	16	dmg-pois	75	24	24											weap	circ	misl					rod	orb	staf	wand				0
@@ -339,7 +339,7 @@ of Substinence	336	101	1	1	45		37				40	26	hp		26	30											lcha													
 of Substinence	337	102	1	1	61		53				40	26	hp		31	35											lcha														0
 of Vita	338	103	1		77		69				40	26	hp		36	40											lcha														0
 of Vita	339	104	1		91		83				40	26	hp		41	45											lcha														0
-of Vita	340	100	1		110		97				40	26	hp		46	50											lcha														0
+of Vita	340	100			110		97				40	26	hp		46	50											lcha														0
 of Life	341	100	1	1	1		9				40	26	hp		6	10											mcha														0
 of Life	342	100	1	1	12		9				40	26	hp		11	15											mcha														0
 of Substinence	343	100	1	1	26		19				40	26	hp		16	20											mcha														0
@@ -356,14 +356,14 @@ of the Locust	353	1	1	1	20		15				70	27	lifesteal		6	7									1	cred	mele	misl	
 of the Lamprey	354	101	1	1	55		43				70	27	lifesteal		8	9									1	cred	mele							orb	wand	staf					0
 of the Leech	355	1	1	1	14		10				40	27	lifesteal		3	4											ring	circ	helm												0
 of the Locust	356	1	1	1	47		35				40	27	lifesteal		5	6											ring	circ	helm												0
-of the Lamprey	357	101	1	1	77		65				40	27	lifesteal		7	8									1	cred	ring	circ													0
+of the Lamprey	357	101	1	1	60		52				40	27	lifesteal		7	8									1	cred	ring	circ													0
 of the Leech	358	1	1	1	34		26				40	27	lifesteal		3	3									1	cred	glov														0
 of the Bat	359	1	1	1	7		4				70	28	manasteal		4	5											weap	misl						orb	wand	staf					0
 of the Wraith	360	1	1	1	21		16				70	28	manasteal		6	7									1	cred	mele	misl						orb	wand	staf					0
 of the Vampire	361	100	1	1	56		48				70	28	manasteal		8	9									1	cred	mele							orb	wand	staf					0
 of the Bat	362	1	1	1	15		11				40	28	manasteal		3	4											amul	circ	helm												0
 of the Wraith	363	1	1	1	58		40				40	28	manasteal		5	6											amul	circ	helm												0
-of the Vampire	364	101	1	1	78		66				40	28	manasteal		7	8									1	cred	amul	circ													0
+of the Vampire	364	101	1	1	60		53				40	28	manasteal		7	8									1	cred	amul	circ													0
 of the Bat	365	1	1	1	35		27				40	28	manasteal		3	3									1	cred	glov														0
 of Defiance	366	1	1	1	25		18				20	29	res-pois-len		75	75									1	dred	tors	shld	amul	circ	misl										0
 of Amelioration	367	1	1	1	18		13				30	29	res-pois-len		50	50											tors	shld	amul	circ	misl										0
@@ -680,7 +680,7 @@ of Quality	677	100	1	1	41		33				40	14	dmg-max		2	2											lcha														
 of Maiming	678	100	1		71		63				40	14	dmg-max		3	4											lcha														0
 of Craftsmanship	679	100	1	1	26		19				40	14	dmg-max		1	1											mcha														0
 of Quality	680	100	1		56		48				40	14	dmg-max		2	2											mcha														0
-of Craftsmanship	681	100	1	1	85		77				40	14	dmg-max		1	1											scha														0
+of Craftsmanship	681	100		1	85		77				0	14	dmg-max		1	1											scha														0
 of Blight	682	100	1	1	9		6				20	16	dmg-pois	50	55	55											lcha														0
 of Venom	683	100	1	1	20		15				10	16	dmg-pois	50	95	95											lcha														0
 of Pestilence	684	100	1	1	32		24				10	16	dmg-pois	50	165	165									1	dgrn	lcha														0
@@ -799,7 +799,7 @@ of Blundering	796	1	1	1	1		1				40	314	map-play-block		-40	-30	map-glob-density	
 of Defending	797	100	1	1	45		20				30	251	red-dmg%		8	14											tors	shld													5000
 of Defending	798	101	1	1	65		40				20	251	red-dmg%		5	10											belt	helm													10000
 of Protecting	799	102	1	1	65		40				20	251	red-dmg%		14	20											tors	shld													15000
-of Guardianship	800	104	1	1	85		60				10	251	red-dmg%		20	25											tors	shld													20000
+of Guardianship	800	104	1	1	70		56				10	251	red-dmg%		20	25											tors	shld													20000
 of Savagery	801	100	1	1	18	58	15				20	252	deadly		5	10											weap	misl						staf	wand	orb					0
 of Devastation	802	100	1	1	28	68	25				20	252	deadly		10	15											weap	misl						staf	wand	orb					0
 of Havoc	803	100	1	1	38		35				20	252	deadly		15	20											weap	misl						staf	wand	orb					0
@@ -1041,5 +1041,5 @@ of Evisceration	1030	104	1	3	45		37				25	14	dmg-max		41	63									1	blac	weap	
 of the Squid	1031	104	1	3	40		30				20	26	hp		61	80									1	cred	amul														0
 of Acceleration	1032	104	1	3	51		43				10	35	move3		40	40											boot														0
 of the Archmage	1033	104	1	3	49		41				10	9	cast3		30	30											tors	shld													0
-of Thawing	1034	104	1	3	52		47				10	322	nofreeze		1	1											tors	shld													0
+of Frostward	1034	104	1	3	52		47				5	322	nofreeze		1	1											tors	shld													0
 of the Magus	1035	104	1	3	49		41				25	9	cast3		20	20											belt	amul	glov												0

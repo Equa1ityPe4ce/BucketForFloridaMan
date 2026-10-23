@@ -1024,8 +1024,8 @@ Unique Map MapBoss				2250																												0
 Rathma Jawbone N				0	100																											0
 Rathma Jawbone NM				0	10																											0
 Rathma Jawbone H				2250	10																											0
-UberAncients T1				5440																												0
-UberAncients T2				5440																												0
+UberAncients T1				3627																												0
+UberAncients T2				4352																												0
 UberAncients T3				5440																												0
 lucbN				0	10																											0
 lucbNM				0																												0
